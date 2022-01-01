@@ -101,6 +101,8 @@ Step 5. Sorting companies
  [OK] 505 companies processed.
 ```
 
+Результат работы в форме требуемых `json` файлов будут сохранены в директории `./data/result/`.
+
 ## Тесты
 ```bash
 composer tests
