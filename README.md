@@ -101,6 +101,8 @@ Step 5. Sorting companies
  [OK] 505 companies processed.
 ```
 
+[![asciicast](https://asciinema.org/a/UJGxBZ1aHm55Xg8IxxJsCnCfB.svg)](https://asciinema.org/a/UJGxBZ1aHm55Xg8IxxJsCnCfB)
+
 Результат работы в форме требуемых `json` файлов будет сохранен в директории `./data/result/`.
 
 ## Тесты
